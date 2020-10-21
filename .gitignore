@@ -1,4 +1,4 @@
 *.log
-*.bd
-/terget
+*.db
+/target
 /bin
