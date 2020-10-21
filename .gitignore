@@ -1,0 +1,4 @@
+*.log
+*.bd
+/terget
+/bin
