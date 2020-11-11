@@ -1,6 +1,6 @@
 *.log
 *.db
-/target
+/mvnTest/target
 /bin
 *.iml
 *.class
