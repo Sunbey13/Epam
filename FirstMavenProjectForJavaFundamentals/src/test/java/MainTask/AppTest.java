@@ -1,4 +1,4 @@
-package sunbey;
+package MainTask;
 
 import static org.junit.Assert.assertTrue;
 

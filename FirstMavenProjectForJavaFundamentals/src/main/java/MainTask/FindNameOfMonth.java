@@ -1,6 +1,5 @@
-package sunbey;
+package MainTask;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class FindNameOfMonth {

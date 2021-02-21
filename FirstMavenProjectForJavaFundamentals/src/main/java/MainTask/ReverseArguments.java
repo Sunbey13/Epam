@@ -1,7 +1,6 @@
-package sunbey;
+package MainTask;
 
 import java.util.Scanner;
-import java.util.Collections;
 
 public class ReverseArguments {
     private static Scanner in = new Scanner(System.in);
