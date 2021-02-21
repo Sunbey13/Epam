@@ -1,4 +1,4 @@
-package OptionalTaskOne;
+package JavaFundamentals;
 
 import java.util.Scanner;
 

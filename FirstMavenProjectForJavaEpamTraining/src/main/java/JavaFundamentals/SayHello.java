@@ -1,4 +1,4 @@
-package MainTask;
+package JavaFundamentals;
 
 import java.util.Scanner;
 

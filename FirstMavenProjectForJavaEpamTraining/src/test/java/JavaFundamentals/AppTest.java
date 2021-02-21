@@ -1,4 +1,4 @@
-package MainTask;
+package JavaFundamentals;
 
 import static org.junit.Assert.assertTrue;
 
