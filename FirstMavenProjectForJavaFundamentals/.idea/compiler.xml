@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mvnTest" />
+        <module name="FirstMavenProjectForJavaFundamentals" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mvnTest" target="1.7" />
+      <module name="FirstMavenProjectForJavaFundamentals" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
